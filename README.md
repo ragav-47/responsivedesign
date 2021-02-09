@@ -209,7 +209,7 @@ Publish the website in the given URL.
     </div>
 </div>
     <div class='row text-center'>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/gates.jpg" alt="Card image">
             </div>
@@ -224,7 +224,7 @@ Publish the website in the given URL.
                 </blockquote>
             </div>
         </div>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/pichai.jpg" alt="Card image">
             </div>
@@ -239,7 +239,7 @@ Publish the website in the given URL.
                 </blockquote>
             </div>
         </div>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/watson.jpg" alt="Card image">
             </div>
@@ -254,7 +254,7 @@ Publish the website in the given URL.
                 </blockquote>
             </div>
         </div>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/dr.jpg" alt="Card image">
             </div>
@@ -269,7 +269,7 @@ Publish the website in the given URL.
                 </blockquote>
             </div>
         </div>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/chris.jpg" alt="Card image">
             </div>
@@ -284,7 +284,7 @@ Publish the website in the given URL.
                 </blockquote>
             </div>
         </div>
-        <div class="card col-12 col-mg-6 col-lg-4">
+        <div class="card col-12 col-md-6 col-lg-4">
             <div class="card">
                 <img class="card-img" src="/static/img/evan.jpg" alt="Card image">
             </div>
@@ -341,7 +341,7 @@ Publish the website in the given URL.
 
 ### Ipad view
 ![output](./static/img/ihome.png)
-![output](./static/img/ipeople.png)
+![output](./static/img/ipeo.png)
 ![output](./static/img/iproduct.png)
 ![output](./static/img/ius.png)
 
